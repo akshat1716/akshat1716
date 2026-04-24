@@ -30,4 +30,4 @@ graduating Aug 2026. I build full-stack web applications and AI-powered systems.
 ---
 
 📫 Reach me at akshatsrivastava500.as@gmail.com  
-🔗 LinkedIn: linkedin.com/in/akshat-srivastava-2012
+🔗 LinkedIn: www.linkedin.com/in/akshat-srivastava2012
