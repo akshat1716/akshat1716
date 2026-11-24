@@ -23,13 +23,13 @@ I'm an Information Technology graduate from **Manipal University Jaipur**. I bui
 ## 🚀 Featured Projects
 
 ### 🔍 [Privacy-First AI Knowledge Intelligence](https://github.com/akshat1716/Privacy-First-AI-Knowledge-Intelligence)
-A local, privacy-focused Retrieval-Augmented Generation (RAG) system for querying documents with grounded answers using **Python, LangChain, ChromaDB, and Ollama**.
+A privacy-first, local Retrieval-Augmented Generation (RAG) system with **Python, LangChain, ChromaDB, Ollama, and FastAPI**, built for grounded document question answering.
 
-### 👨‍💻 [Dev-Tinder](https://github.com/akshat1716/Dev-Tinder)
-A full-stack developer networking application built around **React, Node.js, Express.js, and MongoDB**, with authentication and user interaction workflows.
+### 🎟️ [IRL Social](https://github.com/akshat1716/IRL-Social) · [Live Website](https://irlsocial.in)
+A deployed event discovery and ticketing platform using **Next.js, TypeScript, Supabase (PostgreSQL), and Razorpay**, featuring QR passes, group booking workflows, and role-based access controls.
 
-### ❤️ [Heart Disease Prediction](https://github.com/akshat1716/Heart-Disease-Prediction)
-A machine-learning project exploring heart disease prediction using an **artificial neural network** and structured clinical features.
+### 🚀 [Release Communication & Readiness Brief Assistant](https://github.com/akshat1716/Release-Communication-and-Readiness-Brief-Assistant)
+A full-stack release-readiness assistant built with **Next.js, TypeScript, PostgreSQL, Prisma, and Gemini API**, combining structured AI-generated briefs with deterministic readiness checks and human approval.
 
 ## 📫 Connect With Me
 
